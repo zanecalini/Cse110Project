@@ -26,6 +26,10 @@ Here are some of my current professional goals:
 - [ ] finish my GE's 
 - [ ] do a computer vision project
 
+Here is a picture of a UI me at my teammates created at a hackathon:
+![Image of CPRCoach](https://www.google.com/search?q=zane+calini+&tbm=isch&ved=2ahUKEwjy7OGEoIbuAhX3AjQIHav9Au0Q2-cCegQIABAA&oq=zane+calini+&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJ1DZwwFY-MQBYK_HAWgAcAB4AIABS4gBkQGSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=BR_1X7LWGfeF0PEPq_uL6A4&bih=1010&biw=2048#imgrc=VtLFKYnQyULSaM)
+
+
 
 
 
