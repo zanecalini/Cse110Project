@@ -17,7 +17,7 @@ Here is my LinkedIn:
 Here are 3 facts about me:
 - I love to play soccer
 - I enjoy attending hackathons
-- I have been learning Python
+- I have been learning Python :+1:
 
 
 Here are some of my current professional goals:
