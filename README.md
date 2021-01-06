@@ -21,10 +21,10 @@ Here are 3 facts about me:
 
 
 Here are some of my current professional goals:
--[x] get an internship for Summer 2021
--[x] win a hackathon
--[ ] finish my GE's 
--[ ] do a computer vision project
+ [x] get an internship for Summer 2021
+ [x] win a hackathon
+ [ ] finish my GE's 
+ [ ] do a computer vision project
 
 
 
