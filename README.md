@@ -11,3 +11,21 @@ git branch
 git commit
 ```
 
+Here is my LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/zanecalini/)
+
+Here are 3 facts about me:
+- I love to play soccer
+- I enjoy attending hackathons
+- I have been learning Python
+
+
+Here are some of my current professional goals:
+-[x] get an internship for Summer 2021
+-[x] win a hackathon
+-[ ] finish my GE's 
+-[ ] do a computer vision project
+
+
+
+
